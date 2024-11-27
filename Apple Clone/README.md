@@ -1,7 +1,6 @@
 # Apple-Clone 
 
-Apple.com clone web app that is built using React.js and Node.js 
-
+A clone of the Apple.com website built using React.js for the front end and Node.js for the back end.
 # Motivation
 
-I wanted to recreate the apple.com website using node for my back end and react for my front end.
+I aimed to recreate the Apple.com website to enhance my skills by utilizing Node.js for the back end and React.js for the front end.
