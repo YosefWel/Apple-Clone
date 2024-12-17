@@ -28,7 +28,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/tophikmohammed1234/apple.com-clone.git
+git clone https://github.com/YosefWel/Apple-Clone.git
 Navigate to the Client Directory
 
 bash
